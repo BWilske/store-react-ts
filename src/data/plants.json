@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "Orange kalanchoe",
+    "properName": "Kalanchoe blossfeldiana",
+    "price": 9.99,
+    "img": "/imgs/kalanchoe.jpg"
+  },
+  {
+    "id": 2,
+    "name": "String of Pearls",
+    "properName": "Curio rowleyanus",
+    "price": 5.99,
+    "img": "/imgs/sop.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Flat Leaf Jade",
+    "properName": "Crassula Ovata",
+    "price": 12.99,
+    "img": "/imgs/jade.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Golden Glow",
+    "properName": "Sedum Adolphii",
+    "price": 9.99,
+    "img": "/imgs/sedum.jpg"
+  }
+]
